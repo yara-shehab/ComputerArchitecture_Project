@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/RFormat.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/InstructionMemory.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Controls.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/JFormat.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/ALUOperation.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Memory.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Register.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/IFormat.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Architecture_proj.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Instruction.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/RegisterFile.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/ALUControl.java</file>
+        </group>
+        <group name="Group 20180423-12:48:21">
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Controls.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/JFormat.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/ALUOperation.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Register.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Memory.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/IFormat.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/RegisterFile.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/RFormat.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/InstructionMemory.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Mem.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Architecture_proj.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/Instruction.java</file>
+            <file>file:/C:/Users/kc/Documents/NetBeansProjects/Architecture_proj/src/architecture_proj/ALUControl.java</file>
+        </group>
+    </open-files>
+</project-private>
